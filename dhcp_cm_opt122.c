@@ -3,6 +3,7 @@
 /*
  * written rdmc Oct 2014
  * (C) 2014 NOS AÇORES
+ * Serviços IPs e Head-Ends, aka CROMOS
  *
  * This program is free software; you can redistribut it and/or modify
  * it under the terms of the GNU General Public Licence version 2 as
@@ -15,7 +16,8 @@
  * default action is to let all packets thruogh.
  *
  * v2: jul 2015, change  for new primary addresses 2x 10.212.x.0/17 and 4x 10.213.x.0/18 
- * v3: oct 2018, change  for new primary addresses 1x 10.212.0.0/16 and 4x 10.213.x.0/18  !!! need to change for ANGRA CMTS 3
+ * v3: oct 2018, change  for new primary addresses 1x 10.212.0.0/16 and 4x 10.213.x.0/18  
+ * TODO  need adicional changes for ANGRA CMTS 3 (10.213.0.1/17)
  */
  
 
