@@ -10,7 +10,7 @@
  * 
  * "dhcp_cm_opt122" is a netfilter hock kernel module that
  * for any packet, check if it is a DHCP (udp 67), and if the yiaddr
- * is in the CMs netework (10.1.0.0/16 to 10.9.0.0/16). Then check if it have
+ * is in owers CMs neteworks (10.212.0.0/15). Then check if it have
  * the option 122 sub option 1 "", and change to the cmts primary interface address.
  * default action is to let all packets thruogh.
  *
