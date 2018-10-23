@@ -1,6 +1,6 @@
 # dhcp_cm_opt122
 
-DHCP Opt 122 subopt 1 Packet Mangling for Cable Modems */
+DHCP Opt 122 subopt 1 Packet Mangling for Cable Modems 
 
  "dhcp_cm_opt122" is a netfilter hock kernel module that
  changes option "122" (CableLabs Client Configuration, RFC3495), 
